@@ -1,0 +1,35 @@
+body{
+    /*选用字体*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*文本对齐居中*/
+    text-align: center
+}
+ul{
+    /*去掉列表的样式*/
+    list-style-type: none;
+    /*去掉列表的边距*/
+    padding: 0;
+}
+li{
+    /*设置边距*/
+    margin: 10px;
+    /*设置弹性布局*/
+    display: flex;
+   /* 设置列表项的背景颜色 */
+    background: #f4f4f4; 
+
+/* 弹性布局下的子元素水平分布方式：两端对齐，项目之间的间隔都相等 */
+    justify-content: space-between; 
+
+/* 弹性布局下的子元素垂直对齐方式：居中对齐 */
+    align-items: center;
+
+/* 设置内边距，使内容与边框之间有一定的空间 */
+    padding: 10px;
+
+/* 设置圆角边框，使矩形的四个角呈现圆形 */
+    border-radius: 5px;
+}
+button{
+    cursor:pointer;
+}

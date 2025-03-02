@@ -1,0 +1,29 @@
+body{
+    font-family: Arial,sams-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1{
+    font-size: 24px;
+}
+
+.choices{
+    margin:20px 0
+    
+}
+
+.choice{
+    font-size:18px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    width: 100px;
+    height: 50px;
+}
+
+#result{
+    font-size:20px;
+    font-weight: bold;
+    margin-top:20px;
+}
