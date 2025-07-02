@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8c891aea02227866",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d77f6f8edd6387",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3547ba6a37479de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go 学习/网络通信/go 中的 nethttp 包.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "go 中的 nethttp 包"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "411b2cfb89152aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f3ac3755766d888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147288a10f9e5eb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ba65c599cf703451",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "de4adb3306cf1ac5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "33b5c46310defee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c08ee2c6b2d8ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d16fb723878a408e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docker 和 k8s 的学习/docker大学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "docker大学习 的反向链接列表"
+            }
+          },
+          {
+            "id": "330ed1b6d7774d65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docker 和 k8s 的学习/docker大学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "docker大学习 的出链列表"
+            }
+          },
+          {
+            "id": "405c33a825308b46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5e6dd7b8f0b4d81f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docker 和 k8s 的学习/docker大学习.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "docker大学习 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3547ba6a37479de4",
+  "lastOpenFiles": [
+    "go 学习/网络通信/go 中的 http 请求.md",
+    "js 学习/事件循环.md",
+    "js 学习/前端打包流程.md",
+    "js 学习/js 中有关 this 的奇怪作用域.md",
+    "js 学习/npm 的使用方法.md",
+    "docker 和 k8s 的学习/docker大学习.md",
+    "go 学习/网络通信/go 中的 Context.md",
+    "attachments",
+    "attachments/Pasted image 20250701121314.png",
+    "go 学习/网络通信/go 中的 nethttp 包.md",
+    "attachments/f91fb271236dde66c73b1f50006fb065.png",
+    "分布式系统",
+    "go 中的 & 和  以及返回 & 和对应返回值是实例的情况.md",
+    "go routine.md",
+    "go 学习/基础概念与面试易考知识/Go-os-Package-Guide.md",
+    "go 学习/基础概念与面试易考知识/关于  与 & 的选择.md",
+    "go 学习/基础概念与面试易考知识",
+    "go 学习/数据结构练习",
+    "go 学习/网络通信",
+    "go 学习/基础概念与面试易考知识/go 中的零值定义.md",
+    "go 学习/数据结构练习/go 中的基本数据结构.md",
+    "常见的 tsconfig 配置：.md",
+    "js 学习/对于数组的常见过滤方法.md",
+    "js 学习/ts 中的常用工具类型.md",
+    "js 学习/Typescript 的差异联合类型：.md",
+    "js 学习",
+    "2025-06-17.md",
+    "未命名.canvas",
+    "docker 和 k8s 的学习",
+    "go 中的 http 客户端的完整创建流程：.md",
+    "go 学习"
+  ]
+}
